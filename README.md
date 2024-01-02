@@ -1,7 +1,7 @@
 How To Install:
 
 
-Step 1: Disable Anti VURs from your computer and browser because it may interfere with the download
+Step 1: Disable Anti virus from your computer and browser because it may interfere with the download
 
 
 
